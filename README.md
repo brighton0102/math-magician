@@ -128,7 +128,6 @@ To run the project, execute the "index.html" file in your browser
 
 - GitHub: [brighton0102](htpps://github.com/brighton0102)
 - Twitter: [@brighton_ui](https://twitter.com/brighton_ui)
-- LinkedIn: [brighton](https://www.linkedin.com/in/brighton-mtandi-976615267/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
