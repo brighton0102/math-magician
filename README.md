@@ -129,6 +129,10 @@ To run the project, execute the "index.html" file in your browser
 - GitHub: [brighton0102](htpps://github.com/brighton0102)
 - Twitter: [@brighton_ui](https://twitter.com/brighton_ui)
 
+👤 **Goldinium**
+
+- GitHub: [brighton0102](htpps://github.com/Goldinium)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
