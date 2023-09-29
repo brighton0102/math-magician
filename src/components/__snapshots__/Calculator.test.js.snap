@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator snapshot test 1`] = `
+<div
+  className="calculator-container"
+>
+  <p
+    className="math-description"
+  >
+    Let's do some Math!
+  </p>
+  <section
+    className="container"
+  >
+    <div
+      className="display"
+    >
+      0
+    </div>
+    <div
+      className="btn-grid"
+    >
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        AC
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        +/-
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        %
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        ÷
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        7
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        8
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        9
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        x
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        4
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        5
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        6
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        -
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        1
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        2
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        3
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        +
+      </button>
+      <button
+        className="btn-item double"
+        onClick={[Function]}
+        type="button"
+      >
+        0
+      </button>
+      <button
+        className="btn-item undefined"
+        onClick={[Function]}
+        type="button"
+      >
+        .
+      </button>
+      <button
+        className="btn-item equal"
+        onClick={[Function]}
+        type="button"
+      >
+        =
+      </button>
+    </div>
+  </section>
+</div>
+`;

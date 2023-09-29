@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home snapshot test 1`] = `
+<div>
+  <p
+    className="homepage-title"
+  >
+    Welcome to Our Page
+  </p>
+  <p
+    className="description"
+  >
+    Explore our calculator and get inspired by our daily qoutes
+  </p>
+</div>
+`;

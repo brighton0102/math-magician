@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QuoteDisplay snapshot test 1`] = `
+<div
+  className="display-quote"
+>
+  <h2>
+    Quote of the Day
+  </h2>
+  <p>
+    Loading...
+  </p>
+</div>
+`;
