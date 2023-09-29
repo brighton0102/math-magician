@@ -131,7 +131,7 @@ To run the project, execute the "index.html" file in your browser
 
 👤 **Goldinium**
 
-- GitHub: [brighton0102](htpps://github.com/Goldinium)
+- GitHub: [@Goldinium](https://github.com/Goldinium)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +167,7 @@ If you like this project, kindly leave a comment below and share it with other w
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Eric for the immense support.
+I would like to thank Goldinium for the immense support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
