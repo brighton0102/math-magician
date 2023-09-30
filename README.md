@@ -7,6 +7,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -45,6 +46,14 @@
 
 - **[Make simple calculations]**
 - **[Read a random math-related quote]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+You can find a live demo in [HERE](https://moonlit-licorice-d1a14e.netlify.app/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
